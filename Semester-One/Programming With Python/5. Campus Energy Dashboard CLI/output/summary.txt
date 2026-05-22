@@ -1,0 +1,40 @@
+--= Campus Total Energy Usage =--
+
+Total Energy Usage across Campus: 4039.0000000000005 kWh
+Highest Consuming Building: C_block : 1318.3 kWh
+--= Building-wise Summary =--
+
+-> Building: A_block
+-> Total Readings: 30
+-> Total Energy Usage: 1074.5 kWh
+-> Average Energy Usage: 35.81666666666667 kWh
+-> Min Energy Usage: 27.6 kWh
+-> Max Energy Usage: 47.4 kWh
+
+-> Building: D_block
+-> Total Readings: 30
+-> Total Energy Usage: 918.9 kWh
+-> Average Energy Usage: 30.63 kWh
+-> Min Energy Usage: 23.8 kWh
+-> Max Energy Usage: 39.4 kWh
+
+-> Building: C_block
+-> Total Readings: 30
+-> Total Energy Usage: 1318.3 kWh
+-> Average Energy Usage: 43.943333333333335 kWh
+-> Min Energy Usage: 35.9 kWh
+-> Max Energy Usage: 53.6 kWh
+
+-> Building: B_block
+-> Total Readings: 30
+-> Total Energy Usage: 727.3 kWh
+-> Average Energy Usage: 24.243333333333332 kWh
+-> Min Energy Usage: 18.8 kWh
+-> Max Energy Usage: 30.2 kWh
+
+--= Peak Usages per Building =--
+
+Building: A_block | Peak Usage: 47.4 kWh at 2024-01-08 16:00:00
+Building: D_block | Peak Usage: 39.4 kWh at 2024-01-10 16:00:00
+Building: C_block | Peak Usage: 53.6 kWh at 2024-01-09 16:00:00
+Building: B_block | Peak Usage: 30.2 kWh at 2024-01-07 16:00:00
