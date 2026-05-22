@@ -216,7 +216,6 @@ SAFE: Within daily calorie limit.
 
 ## 10. Details
 - Prabhat Bhatia
-- 2501410006
 - B.Tech CSE Cyber Security(First Semester)
 - 6th October 2025
 - Programming With Python - Lab Assignment 1
